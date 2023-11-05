@@ -1,0 +1,15 @@
+/*Keegan Buis, Registration Form (styles page), 11/05/2023*/
+.cleanup{
+display: block;
+position: relative;
+padding: 5px;
+font-size: 1em;
+}
+.input{
+position: absolute;
+left: 20%;
+font-size: .8em;
+padding: 5px;
+}
+
+
